@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="AA" size="50.000000 77.260086" />
+    <ImageTarget name="A" size="50.000000 77.260086" />
+    <ImageTarget name="12" size="50.000000 50.000000" />
+    <ImageTarget name="room-wallpapers-grunge-1" size="50.000000 31.250000" />
+    <ImageTarget name="10" size="50.000000 35.062500" />
+    <ImageTarget name="9" size="50.000000 33.308823" />
+    <ImageTarget name="8" size="50.000000 31.250000" />
+  </Tracking>
+</QCARConfig>
